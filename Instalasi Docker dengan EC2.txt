@@ -1,0 +1,5 @@
+Meluncurkan instan EC2 menggunakan Ubuntu
+Remote Ubuntu
+Instalasi Docker pada instan EC2
+Ujicoba Docker
+Membuat Image Docker
