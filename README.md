@@ -14,7 +14,7 @@ Repo untuk mendalami docker di cloud menggunakan laynanan EC2 AWS dengan OS Ubun
 # Instalasi Web Server nginx
 - docker pull nginx
 - docker run --name docker-nginx -p 80:80 nginx
-- sudo docker ps-a
+- sudo docker ps -a
 - Masuk ke browser melalui IP Publik yang didapat dari EC2, lalu halaman nginx akan tampil
 # Perintah Dasar Docker
 - docker pull nginx:latest (berfungsi untuk mengunduh dokcer image dari registrasi Dockerhub)
